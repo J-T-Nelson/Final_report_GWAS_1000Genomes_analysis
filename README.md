@@ -1,11 +1,4 @@
-# Final_report_GWAS_1000Genomes_analysis
-Capstone final report and biweekly reports
-
-## Repo Navigation
-
-### Primary Report & Supplementary materials
-Final Report
+# Final_report_GWAS_1000Genomes_analysis HTML report viewing branch
 
 
-## Project Overview
 
